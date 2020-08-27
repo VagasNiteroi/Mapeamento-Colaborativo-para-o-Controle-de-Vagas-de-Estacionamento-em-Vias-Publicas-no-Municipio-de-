@@ -1,0 +1,25 @@
+Gmail
+Email: pro.vagasniteroi@gmail.com
+pro.vagasniteroi@gmail.com
+
+Senha: vagasniteroi8
+----------------------------------------------
+
+Jelastic/VirtualCloud
+https://vagas-niteroi.users.scale.virtualcloud.com.br/
+https://app.infra.scale.virtualcloud.com.br/
+
+Email: pro.vagasniteroi@gmail.com
+Senha: vagasniteroi8
+----------------------------------------------
+
+phpPgAdmin: https://node4131-vagas-niteroi.users.scale.virtualcloud.com.br/
+Login: webadmin
+Password: AGEsis67584
+----------------------------------------------
+
+Github
+Email: pro.vagasniteroi@gmail.com
+Username: VagasNiteroi
+Senha: vagas-niteroi8
+
